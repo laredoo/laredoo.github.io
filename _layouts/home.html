@@ -10,7 +10,6 @@
             {% if site.section_title != '' %}
             <h2 class="section-title text-center">{{ site.section_title }}</h2>
             {% endif %}
-            <h2 class="section-title text-center"> Lucas Laredo </h2>  
             {% if site.section_subtitle != '' %}
             <p class="section-subtitle text-center">{{ site.section_subtitle }}</p>
             {% endif %}
@@ -19,6 +18,7 @@
 
             {% for post in paginator.posts %}
               <div class="wow fadeIn">
+              <h1> Oi </h1>
               {% if post.position == "left" %}
                 {% include content-left.html %}
               {% endif %}
