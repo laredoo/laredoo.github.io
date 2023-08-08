@@ -11,3 +11,4 @@ button_icon: 'github'
 button_text: 'Visit Project'
 lead_text: 'Sou estudante de Sistemas de Informação da Universidade Federal de Minas Gerais. Atualmente estou no 6° período da minha graduação. Tenho um amplo interesse em tecnologia desde a minha infancia, acreditando que esse seja o melhor caminho para mudar o mundo.'
 ---
+Olá! Meu nome é Lucas
