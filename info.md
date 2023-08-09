@@ -1,8 +1,12 @@
 ---
-layout: inner
+layout: info
 title: Informações
 permalink: /info/
 ---
+
+## Curriculum vitæ
+
+Você pode acessar o meu currículo acessando [esse link](../CV-LucasLaredo.pdf)
 
 ## Tecnologias
 Abaixo está a lista de tecnologias que estou familiarizado, seguido pelo nível de profundidade
@@ -56,6 +60,14 @@ Abaixo está a lista de tecnologias que estou familiarizado, seguido pelo nível
 
     - Excel (**☆☆☆**)
 
+- Conhecimentos Extras:
+    
+    - Inglês nível avançado (C1)
+
+    - Alemão Básico (A1)
+
+    - Espanhol Básico (A1)
+
 ## Experiências
 
 ### Iniciação Científica:
@@ -78,7 +90,7 @@ Outra área que tenho me aprofundado e participado de alguns projetos é na áre
 Este projeto consistiu em tentar prever a tabela do *Campeonato Brasileiro de Futebol* utilizando técnicas de Aprendizado de Máquina com dados de fluxo de eventos do *Desafio de Previsão de Futebol*. A ideia era explorar alguns conceitos estatísticos e sua aplicação na análise de futebol. O problema foi modelado usando a *distribuição de Poisson*, uma vez que foi observado que ela modelava adequadamente os gols no futebol como uma probabilidade de gols infinita considerando-os como eventos independentes. Após essa abstração, um modelo foi treinado com os dados das últimas 20 partidas do campeonato e tentou prever os resultados dos jogos.
 
 
-### COMPARANDO JOGADORES DE FUTEBOL USANDO ESTATÍSTICAS AGREGADAS - BELO HORIZONTE, MG
+### Comparando Jogadores de Futebol Usando Estatísticas Agregadas
 #### Departamento de Ciência da Computação da UFMG - Belo Horizonte, MG
 ##### Abril de 2023
 

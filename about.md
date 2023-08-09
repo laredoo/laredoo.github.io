@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Um breve briefing...
 
-Desde jovem tenho um amplo interesse pela área da computação. Instigado pela curiosidade desde a infância, informática sempre esteve presente na minha vida, ao passo que meu pai também é um desenvolvedor, desenvolvi meu conhecimento ao longo de toda minha vida.
+Desde jovem tenho um amplo interesse pela área da computação. Instigado pela curiosidade desde a infância, informática sempre esteve presente na minha vida, ao passo que meu pai também é um desenvolvedor, desenvolvi meu conhecimento ao longo de toda minha vida. 
 
 ## O primeiro contato com desenvolvimento
 
