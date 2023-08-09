@@ -97,6 +97,7 @@ enable_contact: false
 #### Phantom Navigation menu
 enable_nav: true
 nav_item:
-  - { url: '/', text: 'Home' }
-  - { url: '/about', text: 'About me' }
-  - { url: '/contact', text: 'Contact me' }
+  - { url: '/', text: 'Início' }
+  - { url: '/about', text: 'Sobre' }
+  - { url: '/info', text: 'Informações' }
+  - { url: '/contact', text: 'Entre em contato' }

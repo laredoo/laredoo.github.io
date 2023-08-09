@@ -1,0 +1,30 @@
+{% include header.html %}
+
+  <article>
+    <div class="container">
+
+      <div class="row">
+        <div class="col-xs-12 col-md-6">
+          <img class= " thumbnail" src="/img/posts/pic.png" alt="Texto Alternativo">
+        </div>
+        <div class="col-xs-12 col-md-6">
+            <div class="content">
+                <h3 class="title">Quem sou eu?</h3>
+                <p class="excerpt"> Me chamo Lucas Laredo e sou um estudante do curso de Sistemas de Informação da Universidade Federal de Minas Gerais.
+                    Atualmente estou no sexto período da graduação e tenho conhecimento em diversas áreas da computação.
+                </p>
+        </div>
+      </div>
+
+
+      <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+    
+          {{ content }}
+
+        </div>
+      </div>
+    </div>
+  </article>
+
+{% include footer.html %}
